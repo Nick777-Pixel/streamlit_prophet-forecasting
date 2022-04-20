@@ -62,7 +62,7 @@ with st.expander("What is this app?", expanded=False):
     st.write("")
 st.write("")
 st.sidebar.image(load_image("NM Logo (1).png"), use_column_width=True)
-display_links(readme["links"]["repo"], readme["links"][""])
+display_links(readme["links"]["repo"], readme["links"]["article"])
 
 
 st.sidebar.title("1. Data")
