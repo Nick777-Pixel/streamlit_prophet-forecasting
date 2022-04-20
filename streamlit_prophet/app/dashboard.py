@@ -61,7 +61,7 @@ with st.expander("What is this app?", expanded=False):
     st.write(readme["app"]["app_intro"])
     st.write("")
 st.write("")
-st.sidebar.image(load_image("logo.png"), use_column_width=True)
+st.sidebar.image(load_image("NM Logo (1).png"), use_column_width=True)
 display_links(readme["links"]["repo"], readme["links"]["article"])
 
 
