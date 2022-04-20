@@ -1,6 +1,6 @@
 <div align="center">
 
-![Streamlit Prophet](streamlit_prophet/references/logo.png)
+![Streamlit Prophet](streamlit_prophet/references/NM Logo (1).png)
 
 [![CI status](https://github.com/artefactory-global/streamlit_prophet/actions/workflows/ci.yml/badge.svg?branch%3Amain&event%3Apush)](https://github.com/artefactory-global/streamlit_prophet/actions/workflows/ci.yml?query=branch%3Amain)
 [![Python Version](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9-blue.svg)](#supported-python-versions)
